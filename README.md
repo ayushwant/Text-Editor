@@ -5,7 +5,6 @@ A Java based text-editor equipped with
 - auto complete
 - spelling suggestions
 - Flesch Index for our text
-- Markov Text Generation
 - Add words to your dictinary
 - Edit Distance (Going from 1 word to another using only dictionary words)
 - Loading text from a file
